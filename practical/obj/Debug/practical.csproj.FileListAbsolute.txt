@@ -1,0 +1,7 @@
+C:\Users\longlong\source\repos\practical\practical\bin\Debug\practical.exe.config
+C:\Users\longlong\source\repos\practical\practical\bin\Debug\practical.exe
+C:\Users\longlong\source\repos\practical\practical\bin\Debug\practical.pdb
+C:\Users\longlong\source\repos\practical\practical\obj\Debug\practical.csprojAssemblyReference.cache
+C:\Users\longlong\source\repos\practical\practical\obj\Debug\practical.csproj.CoreCompileInputs.cache
+C:\Users\longlong\source\repos\practical\practical\obj\Debug\practical.exe
+C:\Users\longlong\source\repos\practical\practical\obj\Debug\practical.pdb
